@@ -1,0 +1,21 @@
+--名称
+appname="BottomSheetDialog"
+--包名
+packagename="com.mycompany.MyLuaApp1"
+--版本
+appver="1.0"
+--版本号
+appcode="1"
+--SDK
+appsdk="15"
+--调试模式
+debugmode=true
+--应用权限
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE",
+}
+--跳过编译
+skip_compilation={
+
+}
