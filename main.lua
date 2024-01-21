@@ -15,7 +15,7 @@ local layout = require("res.layout.activity_main")
 local Build = bindClass "android.os.Build"
 local WindowManager = bindClass "android.view.WindowManager"
 
-activity.setTheme(R.style.Theme_Material3_Green)
+--activity.setTheme(R.style.Theme_Material3_Green)
 activity.setTitle("test")
 activity.setContentView(Layout.load(layout))
 
